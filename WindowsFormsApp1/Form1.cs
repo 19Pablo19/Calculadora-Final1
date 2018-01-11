@@ -80,6 +80,11 @@ namespace WindowsFormsApp1
         public void borra()
         {
            
+
+
+
+
+
                 pantalla.Text = "0";
             
         }
