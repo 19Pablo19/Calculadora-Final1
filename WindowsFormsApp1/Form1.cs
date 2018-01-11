@@ -83,6 +83,8 @@ namespace WindowsFormsApp1
 
 
 
+           //comprueba
+
 
 
                 pantalla.Text = "0";
